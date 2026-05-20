@@ -15,10 +15,26 @@
   },
   "seriesInfo": {
     "boxes": [
-      { "icon": "fas fa-film", "label": "SERIES", "value": "MOMPRENEURS" },
-      { "icon": "fas fa-users", "label": "STATUS", "value": "Casting Open" },
-      { "icon": "fas fa-map-marker-alt", "label": "FILM LOCATION", "value": "Miami, FL" },
-      { "icon": "fas fa-calendar-alt", "label": "FILMING DATE", "value": "Autumn 2026" }
+      {
+        "icon": "fas fa-film",
+        "label": "SERIES",
+        "value": "MOMPRENEURS"
+      },
+      {
+        "icon": "fas fa-users",
+        "label": "STATUS",
+        "value": "Casting Open"
+      },
+      {
+        "icon": "fas fa-map-marker-alt",
+        "label": "FILM LOCATION",
+        "value": "Miami, FL"
+      },
+      {
+        "icon": "fas fa-calendar-alt",
+        "label": "FILMING DATE",
+        "value": "Autumn 2026"
+      }
     ]
   },
   "whoFor": {
@@ -26,34 +42,34 @@
     "headline": "WHO THIS IS FOR",
     "subheadline": "This opportunity is designed for successful Mompreneurs who have built real wealth while raising their children:",
     "items": [
-    {
-      "title": "E-Commerce & Online Business Owners",
-      "description": "Building thriving businesses from home while being present for your family..."
-    },
-    {
-      "title": "Real Estate Investing Moms",
-      "description": "Property investors, flippers, landlords building generational wealth..."
-    },
-    {
-      "title": "Service-Based Entrepreneurs",
-      "description": "Coaches, consultants, agency owners serving your clients on your terms..."
-    },
-    {
-      "title": "Product Creators & Sellers",
-      "description": "From Etsy shops to Amazon FBA, direct sales to product lines..."
-    },
-    {
-      "title": "Content Creators & Influencers",
-      "description": "Monetizing your platform while inspiring other mothers..."
-    },
-    {
-      "title": "Multi-Business Mompreneurs",
-      "description": "Juggling multiple income streams and investment strategies..."
-    },
-    {
-      "title": "Financial Educators for Moms",
-      "description": "Teaching other mothers how to build wealth and financial independence..."
-    }
+      {
+        "title": "E-Commerce & Online Business Owners",
+        "description": "Building thriving businesses from home while being present for your family..."
+      },
+      {
+        "title": "Real Estate Investing Moms",
+        "description": "Property investors, flippers, landlords building generational wealth..."
+      },
+      {
+        "title": "Service-Based Entrepreneurs",
+        "description": "Coaches, consultants, agency owners serving your clients on your terms..."
+      },
+      {
+        "title": "Product Creators & Sellers",
+        "description": "From Etsy shops to Amazon FBA, direct sales to product lines..."
+      },
+      {
+        "title": "Content Creators & Influencers",
+        "description": "Monetizing your platform while inspiring other mothers..."
+      },
+      {
+        "title": "Multi-Business Mompreneurs",
+        "description": "Juggling multiple income streams and investment strategies..."
+      },
+      {
+        "title": "Financial Educators for Moms",
+        "description": "Teaching other mothers how to build wealth and financial independence..."
+      }
     ]
   },
   "whoNotFor": {
@@ -518,26 +534,26 @@
     "bgImageUrl": "/images/Sec-BG-1.jpg",
     "headline": "FAQ",
     "items": [
-    {
-      "question": "How long will it take for my episode to be produced?",
-      "answer": "Producing high-quality television takes time to deliver the impact your story deserves. The full process, from filming to editing and strategic release, typically takes between 6 to 12 months. This ensures your episode is polished, professionally edited, and launched alongside other successful mompreneurs in the series."
-    },
-    {
-      "question": "What if I'm not comfortable on camera?",
-      "answer": "You don't need to be a media professional to look like one. We've guided countless mompreneurs, experts, and first-time guests through natural, conversational interviews that bring out their confidence and authenticity.\nOur production team makes the process simple, supportive, and stress-free — so you shine on screen."
-    },
-    {
-      "question": "What about childcare during filming?",
-      "answer": "We understand that arranging childcare is part of your planning. Our Miami studio filming is typically completed in one intensive day, making it easier to coordinate someone else to care for your children while you are filming. Many mompreneurs choose to make it a family trip to Miami and arrange local childcare for the filming day."
-    },
-    {
-      "question": "How will my episode be promoted?",
-      "answer": "Your episode will be featured on major streaming platforms and supported by a professional press release distributed to over 100 media networks. You'll also receive tailored social media content to expand your visibility and reach.\n\n\"Mompreneurs\" features some of the nation's most successful mothers in business. On this show, these mothers and business owners are presented on their episodes.\n\nAll episodes are promoted or cross-promoted throughout the season. This ensures your story is seen by thousands, if not millions, of engaged viewers."
-    },
-    {
-      "question": "How long will my episode be?",
-      "answer": "The final runtime will be determined in post-production. But most episodes range between 15 and 30 minutes. This allows your story and journey to be told in a dynamic, high-impact format."
-    }
+      {
+        "question": "How long will it take for my episode to be produced?",
+        "answer": "Producing high-quality television takes time to deliver the impact your story deserves. The full process, from filming to editing and strategic release, typically takes between 6 to 12 months. This ensures your episode is polished, professionally edited, and launched alongside other successful mompreneurs in the series."
+      },
+      {
+        "question": "What if I'm not comfortable on camera?",
+        "answer": "You don't need to be a media professional to look like one. We've guided countless mompreneurs, experts, and first-time guests through natural, conversational interviews that bring out their confidence and authenticity.\nOur production team makes the process simple, supportive, and stress-free — so you shine on screen."
+      },
+      {
+        "question": "What about childcare during filming?",
+        "answer": "We understand that arranging childcare is part of your planning. Our Miami studio filming is typically completed in one intensive day, making it easier to coordinate someone else to care for your children while you are filming. Many mompreneurs choose to make it a family trip to Miami and arrange local childcare for the filming day."
+      },
+      {
+        "question": "How will my episode be promoted?",
+        "answer": "Your episode will be featured on major streaming platforms and supported by a professional press release distributed to over 100 media networks. You'll also receive tailored social media content to expand your visibility and reach.\n\n\"Mompreneurs\" features some of the nation's most successful mothers in business. On this show, these mothers and business owners are presented on their episodes.\n\nAll episodes are promoted or cross-promoted throughout the season. This ensures your story is seen by thousands, if not millions, of engaged viewers."
+      },
+      {
+        "question": "How long will my episode be?",
+        "answer": "The final runtime will be determined in post-production. But most episodes range between 15 and 30 minutes. This allows your story and journey to be told in a dynamic, high-impact format."
+      }
     ]
   },
   "nineConsiderations": {
