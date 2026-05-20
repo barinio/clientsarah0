@@ -6,34 +6,34 @@
     "seoImageUrl": "/images/m-seo-1-.jpg"
   },
   "navBar": {
-    "announcementText": "APPLY TODAY - THIS CURRENT CASTING COHORT\nCLOSES MAY 24th AT 11:59 PM EST",
-    "ctaText": "APPLY NOW"
+    "announcementText": "APPLY TODAY",
+    "ctaText": "APPLY NOW !"
   },
   "hero": {
-    "bgImageUrl": "/images/mompreneurs1-1.jpg",
+    "bgImageUrl": "https://uizdd1fsqwgden3i.public.blob.vercel-storage.com/1779300901034-________.jpg",
     "bgImageMobileUrl": "/images/mompreneurs1-mob-1-.png"
   },
   "seriesInfo": {
     "boxes": [
       {
-        "icon": "fas fa-film",
-        "label": "SERIES",
-        "value": "MOMPRENEURS"
+        "icon": "fas fa-map-marker-alt",
+        "label": "Film",
+        "value": "Seven (7)"
       },
       {
         "icon": "fas fa-users",
         "label": "STATUS",
-        "value": "Casting Open"
+        "value": "Free"
       },
       {
-        "icon": "fas fa-map-marker-alt",
+        "icon": "fas fa-film ",
         "label": "FILM LOCATION",
-        "value": "Miami, FL"
+        "value": "America"
       },
       {
         "icon": "fas fa-calendar-alt",
         "label": "FILMING DATE",
-        "value": "Autumn 2026"
+        "value": "Autumn 2010"
       }
     ]
   },
